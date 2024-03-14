@@ -17,6 +17,7 @@ Développer en HTML, CSS et JavaScript !
 
 Pour changer l'url du webhooks et mettre la votre il faudras modifier
 le fichier "script.js" ligne: N°25. 
+
 • var webhookUrl = "YOUR_WEBHOOKS_URL"; •
 
 # Mon Discord
