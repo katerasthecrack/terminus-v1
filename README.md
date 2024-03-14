@@ -20,6 +20,10 @@ le fichier "script.js" ligne: N°25.
 
 • var webhookUrl = "YOUR_WEBHOOKS_URL"; •
 
+# Preview of Terminus.sh
+
+[Preview here](terminusv1.000.pe) !
+
 # Mon Discord
 
 Rejoint moi sur mon Discord !
