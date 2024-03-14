@@ -1,11 +1,11 @@
 <a href=""><img src="http://www.image-heberg.fr/files/17104096233822345625.png"></a>
 
 <p align="center">
-  <a href="#overview">Presentation</a>
+  <a href="http://terminusv1.000.pe">Preview</a>
   •
   <a href="#license">License</a>
   •
-  <a href="#armada">Armada Collective</a>
+  <a href="#Mon Discord">Mon Discord Collective</a>
 </p>
 
 # Presentation
