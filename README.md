@@ -5,7 +5,7 @@
   •
   <a href="#license">License</a>
   •
-  <a href="#Mon Discord">Mon Discord Collective</a>
+  <a href="#Mon Discord">Mon Discord</a>
 </p>
 
 # Presentation
